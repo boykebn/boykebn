@@ -41,19 +41,6 @@ I enjoy crafting web experiences that are clear, responsive, and built with purp
 
 <br />
 
-## `> github --stats`
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boykebn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22d3ee&rank_icon=github&include_all_commits=true" alt="Boyke's GitHub statistics" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=boykebn&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Boyke's GitHub contribution streak" />
-</div>
-
-<div align="center">
-  <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boykebn&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Most used programming languages" />
-</div>
-
-<br />
-
 ## `> projects --featured`
 
 <table>
@@ -61,17 +48,17 @@ I enjoy crafting web experiences that are clear, responsive, and built with purp
     <td width="50%" valign="top">
       <h3 align="center">Responsive Web</h3>
       <p align="center">
-        <a href="https://github.com/boykebn/fw-12-responsive-web">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=boykebn&repo=fw-12-responsive-web&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=8b5cf6" alt="fw-12-responsive-web repository" />
-        </a>
+        A responsive web interface focused on adaptable layouts and clean structure.
+        <br /><br />
+        <a href="https://github.com/boykebn/fw-12-responsive-web">View repository →</a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Frontend Collaboration</h3>
       <p align="center">
-        <a href="https://github.com/boykebn/fw12-collab2-FRONTEND">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=boykebn&repo=fw12-collab2-FRONTEND&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=8b5cf6" alt="fw12-collab2-FRONTEND repository" />
-        </a>
+        A collaborative frontend project built with JavaScript.
+        <br /><br />
+        <a href="https://github.com/boykebn/fw12-collab2-FRONTEND">View repository →</a>
       </p>
     </td>
   </tr>
@@ -80,20 +67,6 @@ I enjoy crafting web experiences that are clear, responsive, and built with purp
 <div align="center">
   <a href="https://github.com/boykebn?tab=repositories"><img src="https://img.shields.io/badge/Explore%20all%20repositories-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories" /></a>
 </div>
-
-<br />
-
-## `> achievements --unlocked`
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boykebn&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies" />
-</div>
-
-<br />
-
-## `> activity --graph`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boykebn&bg_color=0d1117&color=c9d1d9&line=38bdf8&point=8b5cf6&area=true&area_color=1d4ed8&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 
 <br />
 
