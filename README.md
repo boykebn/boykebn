@@ -1,10 +1,15 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:22d3ee&height=150&section=header&text=Boyke%20Berry%20Nugraha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Building%20clean%2C%20useful%20digital%20experiences.&descAlignY=68&descSize=16" alt="Boyke Berry Nugraha — developer profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22d3ee&height=190&section=header&text=Boyke%20Berry%20Nugraha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20clean%2C%20useful%20digital%20experiences.&descAlignY=62&descSize=16" alt="Boyke Berry Nugraha — developer profile banner" width="100%" />
+
+  <a href="https://github.com/boykebn">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Frontend+Developer+%7C+JavaScript+Enthusiast;Designing+responsive+experiences.;Always+learning.+Always+shipping." alt="Animated introduction" />
+  </a>
 
   <p>
     <a href="https://github.com/boykebn?tab=followers"><img src="https://img.shields.io/github/followers/boykebn?label=Followers&style=for-the-badge&color=38bdf8&labelColor=0f172a" alt="GitHub followers" /></a>
     <a href="https://github.com/boykebn?tab=repositories"><img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Web-22c55e?style=for-the-badge&labelColor=0f172a" alt="Focus: Frontend and Web" /></a>
+    <img src="https://img.shields.io/badge/Status-Available%20to%20build-8b5cf6?style=for-the-badge&labelColor=0f172a" alt="Status: Available to build" />
     <img src="https://komarev.com/ghpvc/?username=boykebn&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS" alt="Profile views" />
   </p>
 
@@ -39,7 +44,7 @@ I enjoy crafting web experiences that are clear, responsive, and built with purp
 ## `> github --stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boykebn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22d3ee&rank_icon=github" alt="Boyke's GitHub statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=boykebn&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=c9d1d9&ring_color=22d3ee&rank_icon=github&include_all_commits=true" alt="Boyke's GitHub statistics" />
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=boykebn&hide_border=true&background=0D1117&stroke=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Boyke's GitHub contribution streak" />
 </div>
 
@@ -102,3 +107,5 @@ I enjoy crafting web experiences that are clear, responsive, and built with purp
   <sub>Designed with a dark, glass-inspired visual language ✦</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:1d4ed8,100:0f172a&height=105&section=footer" alt="Animated footer" width="100%" />
